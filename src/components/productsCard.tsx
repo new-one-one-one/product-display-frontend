@@ -17,7 +17,7 @@ export const ProductCard = (
   return (
     <Card sx={{ maxWidth: 345 }}>
       <CardContent>
-        <Typography variant="h6" component="div">
+        <Typography variant="subtitle1" component="div">
           {name}
         </Typography>
       </CardContent>
